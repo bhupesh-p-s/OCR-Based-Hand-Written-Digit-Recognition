@@ -1,0 +1,17 @@
+Image Name,True Sequence,Predicted Sequence,Correct
+112.jpeg,112,9112,False
+124.jpeg,124,62,False
+163.jpeg,163,263,False
+218.jpeg,218,418,False
+4012.jpeg,4012,4016,False
+456_1.jpeg,456,466,False
+458.jpeg,458,4158,False
+56.jpeg,56,7,False
+56711.jpeg,56711,516313,False
+679.jpeg,679,629,False
+753.jpeg,753,253,False
+769.jpeg,769,269,False
+789.jpeg,789,782,False
+8178.jpeg,8178,2128,False
+892.jpeg,892,842,False
+98.jpeg,98,2,False
